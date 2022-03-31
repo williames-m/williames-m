@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Equals - Stone co.
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for jobs and experience in BI, Data Sciente, Data Analitycs and Data Engeenering
-- 
+
 ##
 
 <div align="center">
