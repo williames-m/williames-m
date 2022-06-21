@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at Avanade inc.
 - 🌱 I’m currently learning Python.
-- 🤔 I’m very interested in Data, like Data Science and Data Engeenering
+- 🤔 I’m very interested in Analytics, Data Science and Data Engineering.
 
 ##
 
