@@ -1,8 +1,8 @@
 ### Hi there, I'm William Machado
 
-- 🔭 I’m currently working on Equals - Stone co.
-- 🌱 I’m currently learning Python
-- 🤔 I’m looking for jobs and experience in Data, like Data Science and Data Engeenering
+- 🔭 I’m currently working at Avanade inc.
+- 🌱 I’m currently learning Python.
+- 🤔 I’m very interested in Data, like Data Science and Data Engeenering
 
 ##
 
